@@ -2,7 +2,9 @@
 
 > Projeto do desafio da \*\*DIO\*\* — uso do \*\*NotebookLM\*\* como ferramenta de aprendizagem ativa: curadoria de fontes, perguntas estratégicas, registro de tentativas e um miniguia de revisão.
 
-!\[Status](https://img.shields.io/badge/status-concluído-brightgreen) !\[Ferramenta](https://img.shields.io/badge/ferramenta-NotebookLM-blue) !\[Tema](https://img.shields.io/badge/tema-IA%20Generativa-purple)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+![Ferramenta](https://img.shields.io/badge/ferramenta-NotebookLM-blue)
+![Tema](https://img.shields.io/badge/tema-IA%20Generativa-purple)
 
 \---
 
